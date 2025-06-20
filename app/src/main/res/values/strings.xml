@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Student App</string>
+
+    <string name="name_hint">Введите имя</string>
+    <string name="group_hint">Введите группу</string>
+    <string name="score_hint">Введите баллы</string>
+
+    <string name="send_data_button">Передать данные</string>
+    <string name="open_web_button">Открыть веб-страницу</string>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_hint">#757575</color>
+</resources>
